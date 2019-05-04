@@ -1,0 +1,25 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+// @import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+// .navbar-laravel {
+//   background-color: #fff;
+//   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+// }
+
+footer {
+	color: #9F9F9F;
+	background-color: #0D122E;
+	padding: 20px 0 20px 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
