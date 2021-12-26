@@ -1,3 +1,41 @@
+# Curso de Laravel 5.5
+## Larast
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=aOjXDiqNlPs&list=PLsY_JS2Bx44k2pY9vihW_ok9fA6Z6L7CF)
+
+### Lista de aulas  
+
+Aula 1 - Rotas e Vistas  
+Aula 2 - Vistas dinâmicas com Blade  
+Aula 3 - Introdução a Migrations  
+Aula 4 - Migrations  
+Aula 5 - Query Builder  
+Aula 6 - Tinker  
+Aula 7 - Eloquent - Primeiros passos  
+Aula 8 - Controllers  
+Aula 9 - Laravel mix + Bootstrap  
+Aula 10 - Layouts  
+Aula 11 - Route Model Binding  
+Aula 12 - Guardar formulário na base de dados  
+Aula 13 - View Partials + Formulários  
+Aula 14 - Edição de registros  
+Aula 15 - Validação de formulários  
+Aula 16 - Conservar dados do formulários  
+Aula 17 - Mensagens de validação em português  
+Aula 18 - Eliminação de registros  
+Aula 19 - Relação entre tabelas - Parte 1  
+Aula 20 - Relação entre tabelas - Parte 2  
+Aula 21 - Scopes  
+Aula 22 - Coleções  
+Aula 23 - Formulários com Laravel Collective  
+Aula 24 - Sistema de autenticação  
+Aula 25 - Personalizar o sistema de autenticação  
+Aula 26 - O usuário com sessão iniciada  
+Aula 27 - Middlewares  
+Aula 28 - View Composers  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
