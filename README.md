@@ -1,9 +1,13 @@
 # Curso de Laravel 5.5
 ## Larast
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=aOjXDiqNlPs&list=PLsY_JS2Bx44k2pY9vihW_ok9fA6Z6L7CF)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=aOjXDiqNlPs&list=PLsY_JS2Bx44k2pY9vihW_ok9fA6Z6L7CF)  
 
 Aula 1 - Rotas e Vistas  
 Aula 2 - Vistas dinâmicas com Blade  
